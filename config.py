@@ -11,7 +11,7 @@ TG_PROXY = (
     {}
 )  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
-CMD_SUFFIX = ""
+CMD_SUFFIX = "/"
 AUTHORIZED_CHATS = "-1003684884407"
 SUDO_USERS = "7834314793"
 STATUS_LIMIT = 10
