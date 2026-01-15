@@ -102,7 +102,7 @@ SET_COMMANDS = True
 TIMEZONE = "Asia/Kolkata"
 
 # GDrive Tools
-GDRIVE_ID = ""
+GDRIVE_ID = "1A26NTM5tvNuaoZHRA_GTi7ztXEMqWmsy"
 GD_DESP = "Uploaded with @JOYBOYLEECHBOT Bot"
 IS_TEAM_DRIVE = False
 STOP_DUPLICATE = False
