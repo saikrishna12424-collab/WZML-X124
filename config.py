@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "8584710936:AAFTxv5kywvFizQY7V1KfV79GZS6RmLxV5U"
+OWNER_ID = 6341046660
+TELEGRAM_API = 20649282
+TELEGRAM_HASH = "09ad74433416ff5a7f88f3155dbe882f"
+DATABASE_URL = "mongodb+srv://VENU_TEJA:<VENU_TEJAMONGODB>@cluster0.5epqypj.mongodb.net/?appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
@@ -12,8 +12,8 @@ TG_PROXY = (
 )  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
-SUDO_USERS = ""
+AUTHORIZED_CHATS = "-1003684884407"
+SUDO_USERS = "7834314793"
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
@@ -43,8 +43,8 @@ DISABLE_SEED = False
 DISABLE_FF_MODE = False
 
 # Telegraph
-AUTHOR_NAME = "WZML-X"
-AUTHOR_URL = "https://t.me/WZML_X"
+AUTHOR_NAME = "@JOYBOY24"
+AUTHOR_URL = "https://t.me/JOYBOY24"
 
 # Task Limits
 DIRECT_LIMIT = 0
@@ -103,7 +103,7 @@ TIMEZONE = "Asia/Kolkata"
 
 # GDrive Tools
 GDRIVE_ID = ""
-GD_DESP = "Uploaded with WZ Bot"
+GD_DESP = "Uploaded with @JOYBOYLEECHBOT Bot"
 IS_TEAM_DRIVE = False
 STOP_DUPLICATE = False
 INDEX_URL = ""
